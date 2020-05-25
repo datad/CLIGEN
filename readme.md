@@ -2,6 +2,16 @@
 # CLIGEN: an integrative analysis of CLInical and GENomic data for disease subtyping
 ---
 
+citation:
+
+Diaz, D., Bollig-Fischer, A., & Kotov, A. (2019, November). Tensor Decomposition for Sub-typing of Complex Diseases based on Clinical and Genomic Data. In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 647-651). IEEE.
+
+[IEEE explore](https://ieeexplore.ieee.org/abstract/document/8983014?casa_token=Qju1nt2-hnUAAAAA:U3838F4djk62S9SLtAewq8_hEO58BBbwKBFCGxuO2kEe4VRZDnclIt6CRmxMq6GudHMP-GW8rw)
+
+[Preprint](https://www.researchgate.net/publication/339097856_Tensor_Decomposition_for_Sub-typing_of_Complex_Diseases_based_on_Clinical_and_Genomic_Data)
+---
+
+
 # Step 1 - Obtain the raw data
 
 The input for the whole pipeline is the mutation file and clinical records. These files can be automatically downloaded using RTCGA or manually downloaded from firebrowse and cBiolite.
