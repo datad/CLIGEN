@@ -2,7 +2,7 @@
 # CLIGEN: an integrative analysis of CLInical and GENomic data for disease subtyping
 ---
 
-citation:
+## Citation
 
 Diaz, D., Bollig-Fischer, A., & Kotov, A. (2019, November). Tensor Decomposition for Sub-typing of Complex Diseases based on Clinical and Genomic Data. In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 647-651). IEEE.
 
